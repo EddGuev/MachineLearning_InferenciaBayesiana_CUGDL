@@ -30,11 +30,9 @@ Cada carpeta tiene un nombre temático que resume el contenido principal. Te rec
 📁 10_naive_bayes/                 # Modelo de Naive Bayes
 📁 11_pca/                         # Análisis de componentes principales (PCA)
 📁 12_clustering/                  # Agrupamiento (KMeans, Jerárquico)
-📁 13_redes_neuronales/            # Perceptrones multicapa (MLP)
-📁 14_cnn_basicas/                 # Redes convolucionales (CNN)
-📁 15_intro_bayesiana/             # Introducción a la inferencia bayesiana
-📁 16_inferencia_bayesiana/        # Modelado probabilístico con PyMC
-📁 17_proyecto_final/              # Proyecto integrador
+📁 13_redes_neuronales/            # Perceptrones multicapa (MLP) y Redes convolucionales (CNN)
+📁 14_inferencia_bayesiana/        # Introducción a la inferencia bayesiana y modelado probabilístico con PyMC
+📁 15_proyecto_final/              # Proyecto integrador
 📁 data/                           # Datasets utilizados
 📁 recursos/                       # Lecturas, PDFs, enlaces útiles
 ```
